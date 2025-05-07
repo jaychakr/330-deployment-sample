@@ -7,6 +7,7 @@ router.get("/", (req, res, next) => {
     <html>
       <body>
         <h1> Hello, world! </h1>
+        <h1>Welcome to the Express server</h1>
       </body>
     </html>
   `)
